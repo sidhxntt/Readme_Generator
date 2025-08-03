@@ -1,5 +1,5 @@
 {
-  "name": "readme_generator",
+  "name": "readme-maker",
   "version": "1.0.0",
   "bin": {
     "readme_generator": "./dist/index.js"
