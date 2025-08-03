@@ -2,7 +2,7 @@
   "name": "readme_generator",
   "version": "1.0.0",
   "bin": {
-    "optimac": "./dist/index.js"
+    "readme_generator": "./dist/index.js"
   },
   "scripts": {
     "dev": "ts-node ./src/index.ts",
