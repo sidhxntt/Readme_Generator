@@ -1,8 +1,8 @@
 {
-  "name": "readme-maker",
+  "name": "readme-maker-cli",
   "version": "1.0.0",
   "bin": {
-    "readme_generator": "./dist/index.js"
+    "readme-maker-cli": "./dist/index.js"
   },
   "scripts": {
     "dev": "ts-node ./src/index.ts",
@@ -13,7 +13,6 @@
     "dist/"
   ],
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
